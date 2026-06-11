@@ -1,0 +1,356 @@
+ASN    11 A   
+GLN    12 A   
+PRO    13 A   
+PHE    14 A   
+ALA    15 A   
+TRP    16 A   
+GLN    17 A   
+VAL    18 A   
+ALA    19 A   
+SER    20 A   
+LEU    21 A   
+SER    22 A   
+GLUT   23 A 1 
+ARGT   24 A 0 
+TYR    25 A   
+GLN    26 A   
+GLUT   27 A 1 
+GLN    28 A   
+PHE    29 A   
+ASPT   30 A 1 
+ILE    31 A   
+GLY    32 A   
+ALA    33 A   
+ALA    34 A   
+VAL    35 A   
+GLUT   36 A 1 
+PRO    37 A   
+TYR    38 A   
+GLN    39 A   
+LEU    40 A   
+GLUT   41 A 1 
+GLY    42 A   
+ARGT   43 A 0 
+GLN    44 A   
+ALA    45 A   
+GLN    46 A   
+ILE    47 A   
+LEU    48 A   
+LYST   49 A 0 
+HSPT   50 A 1 
+HSPT   51 A 1 
+TYR    52 A   
+ASN    53 A   
+SER    54 A   
+LEU    55 A   
+VAL    56 A   
+ALA    57 A   
+GLUT   58 A 1 
+ASN    59 A   
+ALA    60 A   
+MET    61 A   
+LYST   62 A 0 
+PRO    63 A   
+VAL    64 A   
+SER    65 A   
+LEU    66 A   
+GLN    67 A   
+PRO    68 A   
+ARGT   69 A 0 
+GLUT   70 A 1 
+GLY    71 A   
+GLUT   72 A 1 
+TRP    73 A   
+ASN    74 A   
+TRP    75 A   
+GLUT   76 A 1 
+GLY    77 A   
+ALA    78 A   
+ASPT   79 A 1 
+LYST   80 A 0 
+ILE    81 A   
+VAL    82 A   
+GLUT   83 A 1 
+PHE    84 A   
+ALA    85 A   
+ARGT   86 A 0 
+LYST   87 A 0 
+HSPT   88 A 1 
+ASN    89 A   
+MET    90 A   
+GLUT   91 A 1 
+LEU    92 A   
+ARGT   93 A 0 
+PHE    94 A   
+HSPT   95 A 1 
+THR    96 A   
+LEU    97 A   
+VAL    98 A   
+TRP    99 A   
+HSPT  100 A 1 
+SER   101 A   
+GLN   102 A   
+VAL   103 A   
+PRO   104 A   
+GLUT  105 A 1 
+TRP   106 A   
+PHE   107 A   
+PHE   108 A   
+ILE   109 A   
+ASPT  110 A 1 
+GLUT  111 A 1 
+ASN   112 A   
+GLY   113 A   
+ASN   114 A   
+ARGT  115 A 0 
+MET   116 A   
+VAL   117 A   
+ASPT  118 A 1 
+GLUT  119 A 1 
+THR   120 A   
+ASPT  121 A 1 
+PRO   122 A   
+GLUT  123 A 1 
+LYST  124 A 0 
+ARGT  125 A 0 
+LYST  126 A 0 
+ALA   127 A   
+ASN   128 A   
+LYST  129 A 0 
+GLN   130 A   
+LEU   131 A   
+LEU   132 A   
+LEU   133 A   
+GLUT  134 A 1 
+ARGT  135 A 0 
+MET   136 A   
+GLUT  137 A 1 
+ASN   138 A   
+HSPT  139 A 1 
+ILE   140 A   
+LYST  141 A 0 
+THR   142 A   
+VAL   143 A   
+VAL   144 A   
+GLUT  145 A 1 
+ARGT  146 A 0 
+TYR   147 A   
+LYST  148 A 0 
+ASPT  149 A 1 
+ASPT  150 A 1 
+VAL   151 A   
+THR   152 A   
+SER   153 A   
+TRP   154 A   
+ASPT  155 A 1 
+VAL   156 A   
+VAL   157 A   
+ASN   158 A   
+GLUT  159 A 1 
+VAL   160 A   
+ILE   161 A   
+ASPT  162 A 1 
+ASPT  163 A 1 
+ASPT  164 A 1 
+GLY   165 A   
+GLY   166 A   
+LEU   167 A   
+ARGT  168 A 0 
+GLUT  169 A 1 
+SER   170 A   
+GLUT  171 A 1 
+TRP   172 A   
+TYR   173 A   
+GLN   174 A   
+ILE   175 A   
+THR   176 A   
+GLY   177 A   
+THR   178 A   
+ASPT  179 A 1 
+TYR   180 A   
+ILE   181 A   
+LYST  182 A 0 
+VAL   183 A   
+ALA   184 A   
+PHE   185 A   
+GLUT  186 A 1 
+THR   187 A   
+ALA   188 A   
+ARGT  189 A 0 
+LYST  190 A 0 
+TYR   191 A   
+GLY   192 A   
+GLY   193 A   
+GLUT  194 A 1 
+GLUT  195 A 1 
+ALA   196 A   
+LYST  197 A 0 
+LEU   198 A   
+TYR   199 A   
+ILE   200 A   
+ASN   201 A   
+ASPT  202 A 1 
+TYR   203 A   
+ASN   204 A   
+THR   205 A   
+GLUT  206 A 1 
+VAL   207 A   
+PRO   208 A   
+SER   209 A   
+LYST  210 A 0 
+ARGT  211 A 0 
+ASPT  212 A 1 
+ASPT  213 A 1 
+LEU   214 A   
+TYR   215 A   
+ASN   216 A   
+LEU   217 A   
+VAL   218 A   
+LYST  219 A 0 
+ASPT  220 A 1 
+LEU   221 A   
+LEU   222 A   
+GLUT  223 A 1 
+GLN   224 A   
+GLY   225 A   
+VAL   226 A   
+PRO   227 A   
+ILE   228 A   
+ASPT  229 A 1 
+GLY   230 A   
+VAL   231 A   
+GLY   232 A   
+HSPT  233 A 1 
+GLN   234 A   
+SER   235 A   
+HSPT  236 A 1 
+ILE   237 A   
+GLN   238 A   
+ILE   239 A   
+GLY   240 A   
+TRP   241 A   
+PRO   242 A   
+SER   243 A   
+ILE   244 A   
+GLUT  245 A 1 
+ASPT  246 A 1 
+THR   247 A   
+ARGT  248 A 0 
+ALA   249 A   
+SER   250 A   
+PHE   251 A   
+GLUT  252 A 1 
+LYST  253 A 0 
+PHE   254 A   
+THR   255 A   
+SER   256 A   
+LEU   257 A   
+GLY   258 A   
+LEU   259 A   
+ASPT  260 A 1 
+ASN   261 A   
+GLN   262 A   
+VAL   263 A   
+THR   264 A   
+GLUT  265 A 1 
+LEU   266 A   
+ASPT  267 A 1 
+MET   268 A   
+SER   269 A   
+LEU   270 A   
+TYR   271 A   
+GLY   272 A   
+TRP   273 A   
+PRO   274 A   
+PRO   275 A   
+THR   276 A   
+GLY   277 A   
+ALA   278 A   
+TYR   279 A   
+THR   280 A   
+SER   281 A   
+TYR   282 A   
+ASPT  283 A 1 
+ASPT  284 A 1 
+ILE   285 A   
+PRO   286 A   
+GLUT  287 A 1 
+GLUT  288 A 1 
+LEU   289 A   
+PHE   290 A   
+GLN   291 A   
+ALA   292 A   
+GLN   293 A   
+ALA   294 A   
+ASPT  295 A 1 
+ARGT  296 A 0 
+TYR   297 A   
+ASPT  298 A 1 
+GLN   299 A   
+LEU   300 A   
+PHE   301 A   
+GLUT  302 A 1 
+LEU   303 A   
+TYR   304 A   
+GLUT  305 A 1 
+GLUT  306 A 1 
+LEU   307 A   
+SER   308 A   
+ALA   309 A   
+THR   310 A   
+ILE   311 A   
+SER   312 A   
+SER   313 A   
+VAL   314 A   
+THR   315 A   
+PHE   316 A   
+TRP   317 A   
+GLY   318 A   
+ILE   319 A   
+ALA   320 A   
+ASPT  321 A 1 
+ASN   322 A   
+HSPT  323 A 1 
+THR   324 A   
+TRP   325 A   
+LEU   326 A   
+ASPT  327 A 1 
+ASPT  328 A 1 
+ARGT  329 A 0 
+ALA   330 A   
+ARGT  331 A 0 
+GLUT  332 A 1 
+TYR   333 A   
+ASN   334 A   
+ASN   335 A   
+GLY   336 A   
+VAL   337 A   
+GLY   338 A   
+VAL   339 A   
+ASPT  340 A 1 
+ALA   341 A   
+PRO   342 A   
+PHE   343 A   
+VAL   344 A   
+PHE   345 A   
+ASPT  346 A 1 
+HSPT  347 A 1 
+ASN   348 A   
+TYR   349 A   
+ARGT  350 A 0 
+VAL   351 A   
+LYST  352 A 0 
+PRO   353 A   
+ALA   354 A   
+TYR   355 A   
+TRP   356 A   
+ARGT  357 A 0 
+ILE   358 A   
+ILE   359 A   
+ASPT  360 A 1 
+HSPT  361 A 1 
+HSPT  362 A 1 
+HSPT  363 A 1 
+HSPT  364 A 1 
+HSPT  365 A 1 
+HSPT  366 A 1 
