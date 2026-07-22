@@ -5,14 +5,6 @@ This repository contains all raw computational files and source data for the man
 
 All data provided here support full reproducibility of the computational workflow described in the paper, including constant-pH molecular dynamics, stability prediction, deep learning-based fitness scoring, molecular docking, and thermal pulse analysis.
 
-## Repository Structure
-| Directory               | Content description                                                                 | Corresponding section in manuscript |
-|-------------------------|-------------------------------------------------------------------------------------|-------------------------------------|
-| `foldx_files/`          | FoldX repair output PDBs, configuration files, and raw ΔΔG energy term tables for all single-point mutants | Section 2.1 / Section 3.1           |
-| `rosetta_files/`        | Rosetta Cartesian_ddG XML protocol files, command line scripts, and output score files | Section 2.1 / Section 3.1           |
-| `ecnet_files/`          | ECNet model weights, configuration files, input sequences, and normalized fitness prediction tables | Section 2.1 / Section 3.1           |
-| `md_files/`             | All molecular dynamics files: topology (.top), parameter (.mdp), initial coordinates, and analysis scripts for constant-pH MD, equilibrium MD, and thermal pulse simulations | Section 2.1 / Section 3.5           |
-| `docking_files/`        | Input structures, output PDB coordinates of WT and mutant xylohexaose complexes, and docking parameter records | Section 2.12 / Section 3.4          |
 
 ## Software Versions
 - GROMACS 5.0.3
